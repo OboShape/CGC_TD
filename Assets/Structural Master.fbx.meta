@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: d3fd04e0bc7619944824ac81ac0efa55
+timeCreated: 1496833819
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Structural_Bridge
+    100004: Structural_Bridge-extension
+    100006: Structural_Corner-inner
+    100008: Structural_Corner-outer
+    100010: Structural_Ground-A
+    100012: Structural_Ground-B
+    100014: Structural_Ground-C
+    100016: Structural_Platform-A
+    100018: Structural_Platform-B
+    100020: Structural_Platform-C
+    100022: Structural_Ramp
+    100024: Structural_Wall-A
+    100026: Structural_Wall-B
+    100028: Structural_Wall-C
+    400000: //RootNode
+    400002: Structural_Bridge
+    400004: Structural_Bridge-extension
+    400006: Structural_Corner-inner
+    400008: Structural_Corner-outer
+    400010: Structural_Ground-A
+    400012: Structural_Ground-B
+    400014: Structural_Ground-C
+    400016: Structural_Platform-A
+    400018: Structural_Platform-B
+    400020: Structural_Platform-C
+    400022: Structural_Ramp
+    400024: Structural_Wall-A
+    400026: Structural_Wall-B
+    400028: Structural_Wall-C
+    2300000: Structural_Bridge
+    2300002: Structural_Bridge-extension
+    2300004: Structural_Corner-inner
+    2300006: Structural_Corner-outer
+    2300008: Structural_Ground-A
+    2300010: Structural_Ground-B
+    2300012: Structural_Ground-C
+    2300014: Structural_Platform-A
+    2300016: Structural_Platform-B
+    2300018: Structural_Platform-C
+    2300020: Structural_Ramp
+    2300022: Structural_Wall-A
+    2300024: Structural_Wall-B
+    2300026: Structural_Wall-C
+    3300000: Structural_Bridge
+    3300002: Structural_Bridge-extension
+    3300004: Structural_Corner-inner
+    3300006: Structural_Corner-outer
+    3300008: Structural_Ground-A
+    3300010: Structural_Ground-B
+    3300012: Structural_Ground-C
+    3300014: Structural_Platform-A
+    3300016: Structural_Platform-B
+    3300018: Structural_Platform-C
+    3300020: Structural_Ramp
+    3300022: Structural_Wall-A
+    3300024: Structural_Wall-B
+    3300026: Structural_Wall-C
+    4300000: Structural_Bridge-extension
+    4300002: Structural_Bridge
+    4300004: Structural_Corner-inner
+    4300006: Structural_Corner-outer
+    4300008: Structural_Ground-A
+    4300010: Structural_Ground-B
+    4300012: Structural_Ground-C
+    4300014: Structural_Platform-A
+    4300016: Structural_Platform-B
+    4300018: Structural_Platform-C
+    4300020: Structural_Ramp
+    4300022: Structural_Wall-A
+    4300024: Structural_Wall-B
+    4300026: Structural_Wall-C
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
